@@ -1,0 +1,44 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(./assets/bg.png);
+}
+.logo{
+   
+    margin-left: 10%;
+    margin-top: 20px;
+    height: 500px;
+
+  
+
+   
+}
+button{
+    color: white;
+    background-color: black;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-left: 60%;
+    width:auto;
+    border: none;
+    margin-top: -15%;
+    font-size: 30px;
+
+
+    
+}
+
+#img{
+    height: 60px;
+}
+h1{
+    color: "rgb(90, 37, 192)";
+    text-align: center;
+    font-size: 50px;
+    margin-top: 50px;
+}
